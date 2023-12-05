@@ -20,8 +20,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "AmazonIVSBroadcast",
-            url: "https://github.com/ben-spoonradio/IVSBroadcast-Stages/releases/download/1.13.0/AmazonIVSBroadcast-Stages.xcframework.zip",
-            checksum: "b331aa2f264d74b5a4a97d076bd0d3bef670e9f5a87f9056140b907146ba17a1"
+            url: "https://github.com/ben-spoonradio/IVSBroadcast-Stages/releases/download/1.13.2/AmazonIVSBroadcast-Stages.xcframework.zip",
+            checksum: "32ad611aebfab86e81826e5ded01d59e778150a26f70302abb71bef42c3eef54"
         ),
 
 

@@ -21,7 +21,7 @@ let package = Package(
         .binaryTarget(
             name: "AmazonIVSBroadcast",
             url: "https://github.com/ben-spoonradio/IVSBroadcast-Stages/releases/download/1.13.5/AmazonIVSBroadcast-Stages.xcframework.zip",
-            checksum: "d31045369e1b3baa05b8db2b3ba7ded60d3dc7e9586c8d306830e0714e8e0d03"
+            checksum: "a8cb61e1e1b7d152ff2a3f443bf7c1f255b709d0f39362898938d6b614afd843"
         ),
 
 
